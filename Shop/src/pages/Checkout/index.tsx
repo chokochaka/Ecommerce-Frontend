@@ -121,7 +121,7 @@ const Checkout = () => {
 
                   - Số Tài Khoản: 108317919999 (HSBC) <br />
 
-                  - Chủ Tài Khoản: Dung Nguyen Nash
+                  - Chủ Tài Khoản: Dung Nguyen Shop
 
                 </p>
               </Box>

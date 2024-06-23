@@ -6,8 +6,8 @@ export default function Copyright(props: any) {
   return (
     <Typography variant="body2" color="text.secondary" align="center" {...props}>
       {"Copyright © "}
-      <Link color="inherit" href="https://www.nashtechglobal.com/">
-        NashTech Rookie
+      <Link color="inherit" href="https://www.myglobal.com/">
+        My Shop
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}
